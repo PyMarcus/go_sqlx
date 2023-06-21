@@ -1,4 +1,4 @@
-module go_crud
+module github.com/PyMarcus/go_crud
 
 go 1.20
 
